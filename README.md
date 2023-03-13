@@ -1,4 +1,5 @@
 # Qureos-JB-Music-Mental-Health-Survey
+##Please view the pdf file to see all visualizations.
 About JB Music
 JB Music Therapy is a team of Certified Music Therapists who collaborate, design, and personalize therapy with their clients that will foster desired change: boost mood, decrease stress, strengthen relationships, increase focus, develop learning, reduce anxiety, rehab after an injury, and recover lost memories. JB Music Therapy is the largest employer of Music Therapists in Canada. 
 
